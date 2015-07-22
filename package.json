@@ -1,9 +1,9 @@
 {
-  "name": "language-gnuplot",
+  "name": "language-gnuplot-atom",
   "version": "0.1.0",
   "private": true,
   "description": "Syntax highlighting for Gnuplot in Atom",
-  "repository": "https://github.com/jinhuang/language-gnuplot",
+  "repository": "https://github.com/jinhuang/language-gnuplot-atom",
   "lincense": "MIT",
   "engines": {
     "atom": ">0.50.0"

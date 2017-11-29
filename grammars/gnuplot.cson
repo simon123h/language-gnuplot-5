@@ -1,3 +1,5 @@
+'scopeName': 'source.gnuplot'
+'name': 'gnuplot'
 'fileTypes': [
     'gp'
     'gnuplot'
@@ -6,7 +8,6 @@
     'plt'
     'gplot'
 ]
-'name': 'gnuplot'
 'patterns': [
     {
         'include': '#number'
@@ -180,7 +181,7 @@
         'match': '(?x:-?(?:0|[1-9]\\d*)(?:\\.\\d+(?:[eE][+-]?\\d+)?)?)'
         'name': 'constant.numeric.gnuplot'
     'operator':
-        'comment': 'Oprator symbols'
+        'comment': 'Operator symbols'
         'match': '\\s*(==|~=|>|>=|<|<=|&|&&|:|\\||\\|\\||\\+|-|\\*|\\.\\*|/|\\./|\\\\|\\.\\\\|\\^|\\.\\^)\\s*'
         'name': 'keyword.operator.symbols.matlab'
     'string_double':
@@ -209,4 +210,3 @@
             '0':
                 'name': 'punctuation.definition.string.end.gnuplot'
         'name': 'string.quoted.single.gnuplot'
-'scopeName': 'source.gnuplot'

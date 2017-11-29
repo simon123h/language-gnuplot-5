@@ -105,7 +105,7 @@
     }
     {
         'comment': 'These are the terminal types available on my system -- there are probably a lot more'
-        'match': '\\b(aed512|aed767|aifm|aqua|bitgraph|cgm|corel|dumb|dxf|eepic|emf|emtex|epslatex|epson_180dpi|epson_60dpi|epson_lx800|fig|gif|gpic|hp2623A|hp2648|hp500c|hpdj|hpgl|hpljii|hppj|imagen|jpeg|kc_tek40xx|km_tek40xx|latex|mf|mif|mp|nec_cp6|okidata|pbm|pcl5|pdf|png|postscript|pslatex|pstex|pstricks|qms|regis|selanar|starc|svg|tandy_60dpi|tek40xx|tek410x|texdraw|tgif|tkcanvas|tpic|unknown|vttek)\\b'
+        'match': '\\b(aed512|aed767|aifm|aqua|bitgraph|cgm|corel|dumb|dxf|eepic|emf|emtex|epslatex|epson_180dpi|epson_60dpi|epson_lx800|fig|gif|gpic|hp2623A|hp2648|hp500c|hpdj|hpgl|hpljii|hppj|imagen|jpeg|kc_tek40xx|km_tek40xx|latex|mf|mif|mp|nec_cp6|okidata|pbm|pcl5|pdf|png|pngcairo|postscript|pslatex|pstex|pstricks|qms|regis|selanar|starc|svg|tandy_60dpi|tek40xx|tek410x|texdraw|tgif|tkcanvas|tpic|unknown|vttek)\\b'
         'name': 'constant.other.terminal.gnuplot'
     }
     {

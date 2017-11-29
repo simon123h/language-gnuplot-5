@@ -1,4 +1,5 @@
 # GnuPlot syntax highlighting for Atom
+Atom package: [](https://atom.io/packages/language-gnuplot-5)
 
 ## Notice
 This is a fork of [language-gnuplot-atom](https://github.com/jinhuang/language-gnuplot-atom).

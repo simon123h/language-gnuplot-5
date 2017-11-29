@@ -41,8 +41,8 @@
                 'name': 'variable-assignment.range.gnuplot'
             }
             {
-                'match': '(?i:[^\\s(pi|e)\\]])'
-                'name': 'invalid.illegal.expected-range-separator.gnuplot'
+                'match': '(?x:-?(?:0|[1-9]\\d*)(?:\\.\\d+(?:[eE][+-]?\\d+)?)?)'
+                'name': 'constant.numeric.gnuplot'
             }
         ]
     }
@@ -64,8 +64,8 @@
                 'name': 'punctuation.separator.range.gnuplot'
             }
             {
-                'match': '(?i:[^\\s(pi|e)\\]])'
-                'name': 'invalid.illegal.expected-range-separator.gnuplot'
+                'match': '(?x:-?(?:0|[1-9]\\d*)(?:\\.\\d+(?:[eE][+-]?\\d+)?)?)'
+                'name': 'constant.numeric.gnuplot'
             }
         ]
     }

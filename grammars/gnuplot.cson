@@ -4,6 +4,7 @@
     'gnu'
     'plot'
     'plt'
+    'gplot'
 ]
 'name': 'gnuplot'
 'patterns': [

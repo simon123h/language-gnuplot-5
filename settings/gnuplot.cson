@@ -1,0 +1,6 @@
+'.source.gnuplot':
+  'editor':
+    'softTabs': true
+    'tabLength': 4
+    'commentStart': '# '
+    'commentEnd': ''
